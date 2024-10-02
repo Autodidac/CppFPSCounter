@@ -46,6 +46,7 @@ int main() {
 }
 */
 
+// Same thing multithreaded
 #include <iostream>
 #include <chrono>
 #include <thread>
